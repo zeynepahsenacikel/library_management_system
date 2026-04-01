@@ -1,4 +1,4 @@
-# Library Management System (Java OOP)
+# Library Management System (Java OOP)
 * A robust, object-oriented Library Management System developed in Java. This project simulates a real-world library environment where different types of users (Students, Academics, Guests) can borrow and return various library items (Books, Magazines, DVDs) while the system automatically handles loan limits, deadlines, and penalty calculations.
 
 ## ✨ Features
